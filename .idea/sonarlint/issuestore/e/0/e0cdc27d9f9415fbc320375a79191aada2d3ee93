@@ -1,0 +1,10 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‚ÈíÕ8Ä‡Ô­0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Æ‡Ô­0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³¦Ÿõúÿÿÿÿ8È‡Ô­0
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8É‡Ô­0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³Ú¢øÿÿÿÿ8Ê‡Ô­0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(û—ŠÓ8Ì‡Ô­0
